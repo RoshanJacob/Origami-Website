@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  border: solid;
+  margin: 20px;
+  padding: 20px;
+  background-color: lightcoral;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  border: solid;
+  border-radius: 15px;
+  background-color: thistle;
+}
+::selection {
+  color: white;
+  background-color: teal;
+}

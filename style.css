@@ -1,0 +1,76 @@
+/* * {
+  border: solid;
+} */
+.title {
+  align-self: center;
+  text-align: center;
+  background-color: #9acd32;
+  margin: 20px;
+  border: solid;
+}
+.links {
+  border: solid;
+  text-align-last: center;
+}
+body {
+  background-color: lemonchiffon;
+}
+a:link {
+  color: lightseagreen;
+}
+a:visited {
+  color: lightseagreen;
+}
+.links a {
+  padding-left: 30px;
+  margin: 10px;
+  padding-right: 30px;
+  /* border: solid; */
+}
+a:hover {
+  color: darkseagreen;
+}
+hr {
+  width: 100%;
+  position: relative;
+  right: 30%;
+}
+img {
+  border: solid;
+  border-radius: 20px;
+  border-width: 5px;
+}
+.items {
+  border: solid;
+  margin-top: 10px;
+  border-width: 2px;
+  padding-left: 520px;
+  border-radius: 20px;
+}
+.camel {
+  padding-top: 20px;
+}
+.chameleon {
+  padding-top: 20px;
+}
+.cicada {
+  padding-top: 20px;
+}
+.panda {
+  padding-top: 20px;
+}
+.pigeon {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+pre {
+  text-align: center;
+  position: relative;
+  right: 48%;
+}
+/* .about {
+  padding: 10px;
+}
+.follow {
+  padding: 10px;
+} */
